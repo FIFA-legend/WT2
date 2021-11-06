@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"by.bsuir.kolodko.dao"},{"l":"by.bsuir.kolodko.dao.impl"},{"l":"by.bsuir.kolodko.entity"},{"l":"by.bsuir.kolodko.entity.criteria"},{"l":"by.bsuir.kolodko.main"},{"l":"by.bsuir.kolodko.service"},{"l":"by.bsuir.kolodko.service.impl"},{"l":"by.bsuir.kolodko.service.validation"}]
